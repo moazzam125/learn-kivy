@@ -1,4 +1,5 @@
-# learn-kivy ![Discord](https://img.shields.io/discord/423249981340778496)
+# learn-kivy ![Discord](https://img.shields.io/discord/423249981340778496) ![Status](https://img.shields.io/badge/status-deprecated-red)
+***DEPRECATED***, will be reopened soon.
 
 [kivy](https://kivy.org/) cheat sheet with syntax.
 
